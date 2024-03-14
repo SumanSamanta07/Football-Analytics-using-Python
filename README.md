@@ -8,4 +8,4 @@ Some outputs of the project are given below:
 ![output](https://github.com/SumanSamanta07/Football-Analytics-using-Python/assets/108650014/7d1ea259-b3d7-49ff-885d-0343ecf06622)
 ![output7](https://github.com/SumanSamanta07/Football-Analytics-using-Python/assets/108650014/04ab262e-011c-486b-b234-84b7b83d0092)
 ![output6](https://github.com/SumanSamanta07/Football-Analytics-using-Python/assets/108650014/0014a77e-8217-48d7-9cb5-d49a0fac1c0d)
-![output5](https://github.com/SumanSamanta07/Football-Analytics-using-Python/assets/108650014/eb327da3-a696-41f1-b174-9711d2c9ce77)
+![output8](https://github.com/SumanSamanta07/Football-Analytics-using-Python/assets/108650014/28dfe561-912f-4cf8-8221-56acf8b07416)
