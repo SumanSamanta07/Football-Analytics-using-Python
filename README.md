@@ -1,5 +1,7 @@
 # Football-Analytics-using-Python
-This is a Football Analytics project using python. In this project Passing Network and Danger Passes of Portugal team at the FIFA World Cup 2022 is analysed. 
+This is a Football Analytics project using python. In this project Passing Network and Danger Passes of Portugal team at the FIFA World Cup 2022 is analysed.
+I published this project in an article on Medium. The article link is given below:
+https://medium.com/@sumansamanta362001/analyzing-passing-network-of-portugal-at-the-fifa-world-cup-2022-ff61283c9c40
 
 Passing network refers to the graphical depiction or analysis of the passing interactions between players throughout a match. This analysis provides valuable insights into how players distribute the ball among themselves, revealing patterns of play, player involvement in passing sequences, directional trends and connections between different areas of the field.
 
